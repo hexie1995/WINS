@@ -1,6 +1,6 @@
 # WINS
 Xie 
 
-Xie = Happy
+Xie = Happy = Math
 
 This is a test for git pull
